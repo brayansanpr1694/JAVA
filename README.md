@@ -26,9 +26,9 @@ Practicar y consolidar habilidades en Java a través de ejercicios concretos, pr
 
 | Carpeta | Contenido |
 |---|---|
-| 🟢 `java-junior` | Condicionales, operadores, ciclos, métodos, entrada/salida |
-| 🟡 `java-intermedio` | POO, colecciones, manejo de excepciones, streams |
-| 🔴 `java-senior` | Patrones de diseño, concurrencia, algoritmos, arquitectura |
+| 🟢 [`java-junior`](java-junior/) | Condicionales, operadores, ciclos, métodos, entrada/salida |
+| 🟡 [`java-intermedio`](java-intermedio/) | POO, colecciones, manejo de excepciones, streams |
+| 🔴 [`java-senior`](java-senior/) | Patrones de diseño, concurrencia, algoritmos, arquitectura |
 
 ---
 
