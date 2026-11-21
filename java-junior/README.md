@@ -4,6 +4,8 @@
 
 ---
 
+[Ver las soluciones de referencia](soluciones/).
+
 ## 📋 Índice
 
 | # | Ejercicio | Tema | Dificultad |
