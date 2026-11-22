@@ -1,5 +1,7 @@
 # 🔴 Java senior — Diseño de sistemas
 
+[Ver las soluciones y ejecutar las pruebas](soluciones/README.md).
+
 Implementa cada ejercicio en Java 17 o posterior. Incluye pruebas reproducibles y un documento breve con el contrato público, las invariantes y las decisiones de diseño. Los ejercicios se pueden ejecutar localmente con adaptadores en memoria y los dobles de prueba que necesites.
 
 | # | Ejercicio | Temas |

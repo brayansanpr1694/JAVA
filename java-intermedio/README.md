@@ -1,5 +1,7 @@
 # 🟡 Java intermedio — Ingeniería de software
 
+[Ver las soluciones y ejecutar las pruebas](soluciones/README.md).
+
 Implementa cada ejercicio en Java 17 o posterior. Incluye pruebas de los casos de aceptación y documenta cómo ejecutarlas. Las entradas de ejemplo describen el comportamiento esperado y puedes exponerlo mediante métodos en Java.
 
 | # | Ejercicio | Temas |
